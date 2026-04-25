@@ -1,1 +1,12 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<h1 align="center">🚀 Pattern-Driven LeetCode</h1>
+
+<p align="center">
+  Consistent problem solving. Clean structure. Real understanding.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems-Solving-blue" />
+  <img src="https://img.shields.io/badge/Focus-Consistency-green" />
+  <img src="https://img.shields.io/badge/Level-Improving-orange" />
+</p>
+ 
