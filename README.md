@@ -10,3 +10,15 @@
   <img src="https://img.shields.io/badge/Level-Improving-orange" />
 </p>
  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Avilash02/leetcode-journey/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Avilash02/leetcode-journey/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
