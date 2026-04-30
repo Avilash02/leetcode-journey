@@ -37,4 +37,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Avilash02/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Avilash02/leetcode-journey/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Avilash02/leetcode-journey/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
