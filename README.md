@@ -23,10 +23,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avilash02/leetcode-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avilash02/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Avilash02/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avilash02/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Avilash02/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Avilash02/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -36,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Avilash02/leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Avilash02/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
