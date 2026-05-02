@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Avilash02/leetcode-journey/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avilash02/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Avilash02/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Avilash02/leetcode-journey/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Avilash02/leetcode-journey/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Avilash02/leetcode-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
